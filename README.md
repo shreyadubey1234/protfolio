@@ -1,2 +1,2 @@
 # protfolio
-my profile or my resume
+my profile or my resume .
